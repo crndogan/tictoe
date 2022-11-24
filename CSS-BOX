@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Tic Tac Toes</title>
+    <link rel="stylesheet" href="tictactoe.css">
+</head>
+<body>
+<style> 
+ul{
+  width: 300px;
+  height: 300px;
+}
+
+li {
+  width: 90px;
+  height: 90px;
+  margin: 5px;
+  float: left;
+  list-style: none;
+  font-size: 80px;
+  font-family: sans-serif;
+  text-align: center;
+  background-color: lightblue;}
+</style>
+<ul>
+        <li>X
+        <li>
+        <li>O
+
+        <li>
+        <li>X
+        <li>O
+
+        <li>X
+        <li>O
+        <li>
+ </ul>
+
+</body>
+</html>
